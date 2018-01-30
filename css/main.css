@@ -289,3 +289,8 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+#liste-recettes p
+{
+    font-size: 20px;
+}
