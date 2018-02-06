@@ -294,3 +294,14 @@ textarea {
 {
     font-size: 20px;
 }
+
+#mainrecette ul
+{
+	list-style: circle;
+}
+
+#mainrecette h2
+{
+	text-decoration: underline;
+}
+
