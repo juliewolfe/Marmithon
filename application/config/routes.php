@@ -52,5 +52,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'RecipeController';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
-$route['recipe'] = 'RecipeController';
+$route['recipe'] = 'RecipeController/recipe';
 $route['recipe/(:num)'] = 'RecipeController/recipe/$1';
+$route['ing'] = 'IngController';
